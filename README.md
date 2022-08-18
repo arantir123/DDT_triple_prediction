@@ -2,5 +2,7 @@
 
 How to use it:
 
-1. Unfold the file
+1. Unfold the file ./DDT_triple_prediction/DDT/data/Cross_validation_split.rar, to obtain the required model input for each fold.
+2. Use the instruction of each .py file to execute different variants described in the manuscript on each fold:
+  1. 
 
