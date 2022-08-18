@@ -14,6 +14,9 @@ How to use it:
   * Hypo_noECFP6_noontology_noppi.py: for hyperbolic based variants using self-contained drug and target embedding look-up tables.
   * Hypo_noECFP6_ontology_ppi.py: for hyperbolic based variants using self-contained drug embedding look-up table + GO/PPI graph.
   * Hypo_visualization: visualize the spatial layout of target embeddings under given drug and disease based on hyperbolic KGC methods.
+3. Files in ./DDT_triple_prediction/DDT/outputs:
+  *   * hypo_coordinate_set_original_fold4_515_449.pickle and hypo_coordinate_set_transformed_fold4_515_449.pickle: 2-D coordinates of the hyperbolic spatial layout in Fig. 2. (C) and (D).
+  * eucli_coordinate_set_original_fold4_515_449.pickle and eucli_coordinate_set_transformed_fold4_515_449.pickle: 2-D coordinates of the Euclidean spatial layout in Fig. 2. (C) and (D).
   
   
   
