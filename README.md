@@ -3,7 +3,7 @@
 How to use it:
 
 1. __Unfold the file ./DDT_triple_prediction/DDT/data/Cross_validation_split.rar, to obtain the required model input for each fold.__
-2. __Use the instruction in each following .py file to execute different variants described in the manuscript on each fold:__
+2. __Follow the instruction in each following .py file to execute different variants described in the manuscript on each fold:__
   * __Eucli_ECFP6_seqsimilarity.py:__ for Euclidean based variants using domain knowledge.
   * __Eucli_noECFP6_noseqsimilarity.py:__ for Euclidean based variants without using domain knowledge.
   * __Eucli_visualization.py:__ visualize the spatial layout of target embeddings under given drug and disease based on Euclidean KGC methods.
