@@ -1,4 +1,4 @@
-# FLONE: fully Lorentz network embedding for inferring novel drug targets
+# FLONE: fully Lorentz network embedding for inferring novel drug targets (under review)
 
 How to use it:
 
