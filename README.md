@@ -1,5 +1,3 @@
-# FLONE: fully Lorentz network embedding for inferring novel drug targets (under review)
-
 How to use it:
 
 1. __Unfold the file ./DDT_triple_prediction/DDT/data/Cross_validation_split.rar, to obtain the required model input for each independent repeat (based on DTINet).__
