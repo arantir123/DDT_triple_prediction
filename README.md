@@ -1,5 +1,3 @@
-How to use it:
-
 1. __Unfold the file ./DDT_triple_prediction/DDT/data/Cross_validation_split.rar, to obtain the required model input for each independent repeat (based on DTINet).__
 2. __Follow the instruction in each following .py file to execute different variants described in the manuscript on each independent repeat:__
   * __Eucli_ECFP6_seqsimilarity.py:__ for Euclidean based variants using domain knowledge.
