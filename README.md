@@ -3,7 +3,7 @@
 
 __How to use it:__
 
-__Our test Environment (Windows or Linux, the higher environment version beyond this could also be feasible):__
+__Our test Environment (Windows or Linux, the higher environment version beyond this might be feasible as well):__
 * Python 3.6.13
 * Pytorch 1.10.2
 * CUDA tool kit 11.3.1
@@ -23,7 +23,7 @@ Step2. __Follow the instruction in each following .py file to execute different 
   * __Hypo_noECFP6_ontology_ppi.py:__ for hyperbolic based variants using self-contained drug embedding look-up table + GO/PPI graph.
   * __Hypo_visualization.py:__ visualize the spatial layout of target embeddings under given drug and disease based on hyperbolic KGC methods.
   
-__Check visualization results in the manuscript: Files in ./DDT_triple_prediction/DDT/outputs:__
+__Check visualization results in the manuscript: files in ./DDT_triple_prediction/DDT/outputs:__
   * __hypo_coordinate_set_original_fold4_515_449.pickle and hypo_coordinate_set_transformed_fold4_515_449.pickle:__ 2-D coordinates of the hyperbolic spatial layout in Fig. 2. (A) and (B) in the manuscript (based on Hypo_visualization.py).
   * __eucli_coordinate_set_original_fold4_515_449.pickle and eucli_coordinate_set_transformed_fold4_515_449.pickle:__ 2-D coordinates of the Euclidean spatial layout in Fig. 2. (C) and (D) in the manuscript (based on Eucli_visualization.py).
   
