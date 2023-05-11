@@ -1,5 +1,5 @@
 # FLONE
-### fully Lorentz network embedding for inferring novel drug targets
+### Fully Lorentz network embedding for inferring novel drug targets
 
 __How to use it:__
 
@@ -23,9 +23,11 @@ Step2. __Follow the instruction in each following .py file to execute different 
   * __Hypo_noECFP6_ontology_ppi.py:__ for hyperbolic based variants using self-contained drug embedding look-up table + GO/PPI graph.
   * __Hypo_visualization.py:__ visualize the spatial layout of target embeddings under given drug and disease based on hyperbolic KGC methods.
   
-__Check visualization in the manuscript: files in ./DDT_triple_prediction/DDT/outputs:__
-  * __hypo_coordinate_set_original_fold4_515_449.pickle and hypo_coordinate_set_transformed_fold4_515_449.pickle:__ 2-D coordinates of the hyperbolic spatial layout in Fig. 2. (A) and (B) in the manuscript (based on Hypo_visualization.py).
-  * __eucli_coordinate_set_original_fold4_515_449.pickle and eucli_coordinate_set_transformed_fold4_515_449.pickle:__ 2-D coordinates of the Euclidean spatial layout in Fig. 2. (C) and (D) in the manuscript (based on Eucli_visualization.py).
+__Check visualization in the manuscript: Files in ./DDT_triple_prediction/DDT/outputs:__
+  * __hypo_coordinate_set_original_fold4_515_449.pickle and hypo_coordinate_set_transformed_fold4_515_449.pickle:__ 
+  2-D coordinates of the hyperbolic spatial layout in Fig. 2. (A) and (B) in the manuscript (based on Hypo_visualization.py).
+  * __eucli_coordinate_set_original_fold4_515_449.pickle and eucli_coordinate_set_transformed_fold4_515_449.pickle:__ 
+  2-D coordinates of the Euclidean spatial layout in Fig. 2. (C) and (D) in the manuscript (based on Eucli_visualization.py).
   
   
   
