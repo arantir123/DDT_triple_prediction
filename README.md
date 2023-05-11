@@ -24,12 +24,8 @@ Step2. __Follow the instruction in each following .py file to execute different 
   * __Hypo_visualization.py:__ visualize the spatial layout of target embeddings under given drug and disease based on hyperbolic KGC methods.
   
 __Check visualization in the manuscript: Files in ./DDT_triple_prediction/DDT/outputs:__
-  * __hypo_coordinate_set_original_fold4_515_449.pickle and hypo_coordinate_set_transformed_fold4_515_449.pickle:__
-   
-  2-D coordinates of the hyperbolic spatial layout in Fig. 2. (A) and (B) in the manuscript (based on Hypo_visualization.py).
-  * __eucli_coordinate_set_original_fold4_515_449.pickle and eucli_coordinate_set_transformed_fold4_515_449.pickle:__ 
-  
-  2-D coordinates of the Euclidean spatial layout in Fig. 2. (C) and (D) in the manuscript (based on Eucli_visualization.py).
+  * __hypo_coordinate_set_original_fold4_515_449.pickle and hypo_coordinate_set_transformed_fold4_515_449.pickle:__ 2-D coordinates of the hyperbolic spatial layout in Fig. 2. (A) and (B) in the manuscript (based on Hypo_visualization.py).
+  * __eucli_coordinate_set_original_fold4_515_449.pickle and eucli_coordinate_set_transformed_fold4_515_449.pickle:__ 2-D coordinates of the Euclidean spatial layout in Fig. 2. (C) and (D) in the manuscript (based on Eucli_visualization.py).
   
   
   
