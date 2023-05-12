@@ -3,7 +3,7 @@
 
 __How to use it:__
 
-__Our test Environment (Windows or Linux, the higher environment version beyond this might be feasible as well):__
+__Our test environment (Windows or Linux, the higher environment version beyond this might be feasible as well):__
 * Python 3.6.13
 * Pytorch 1.10.2
 * CUDA tool kit 11.3.1
