@@ -1,6 +1,10 @@
 # FLONE
 ### FLONE: Fully Lorentz network embedding for inferring novel drug targets
 
+__The original bioRxiv version link: https://www.biorxiv.org/content/10.1101/2023.03.20.533432v1.abstract__
+
+__The accepted version link: https://academic.oup.com/bioinformaticsadvances/article/3/1/vbad066/7178008__
+
 __How to use it:__
 
 __Our test environment (Windows or Linux, the higher environment version beyond this might be feasible as well):__
