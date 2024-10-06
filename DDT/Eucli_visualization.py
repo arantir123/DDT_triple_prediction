@@ -11,7 +11,7 @@ TARGET_NUM = 1493
 DISEASE_NUM = 5603
 
 # visualize the spatial layout of target embeddings under given drug and disease based on Euclidean KGC methods
-# currently only for the fully Euclidean counterpart of FLNE
+# currently only for the fully Euclidean counterpart of FLONE
 
 def run_model_visualize_DDT(args):
     # fix random seed
